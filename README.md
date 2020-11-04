@@ -1,37 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@orotsy
-orotsy /
-TX
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-TX/4ernovik.html
-@orotsy
-orotsy Add files via upload
-Latest commit def4454 15 minutes ago
-History
-1 contributor
-55 lines (49 sloc) 1.6 KB
-
 <!DOCTYPE html>
 <html>
 <head>
