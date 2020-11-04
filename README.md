@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,6 +8,8 @@
 </head>
 
 <body id="Homepage">
+
+
 
 <div class="header">
   <h1>Maria's Website</h1>
@@ -21,7 +24,7 @@
     <button class="subnavbtn">Courses<i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
       <a href="#course1">Course 1</a>
-      <a href="#course2">Course 2</a>
+      <a href="courses2.html">Course 2</a>
     </div>
   </div> 
   <div class="subnav">
@@ -37,33 +40,49 @@
   <a href="Contact.html">Contact</a>
 </div>
 
-<div id=”Cntnr2inlineContent” class=”c3inlineContent”>
-<div id="Cntnr2inlineContent-gridWrapper" data-mesh-internal="true">
-<div id="Cntnr2inlineContent-gridContainer" data-mesh-internal="true">
-<div data-packed="true" data-vertical-text="false" style="top:;bottom:;left:;right:;width:103px;height:auto;position:;pointer-events:none" class="txtNew" id="WrchTxth">
-<h6 class="font_6">
-<span class="color_16">About me</span>
-</h6>
+<section class="container">
+<div class="row">
+  <div class="side">
+    <h2>About Me</h2>
+    <h5>Photo of me:</h5>
+    
+      <img class="fakeimg1" style="height:200px;" src="images/my_image.png" alt="my photo">
+    
+    
+    <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    <h3>More Text</h3>
+    <p>Lorem ipsum dolor sit ame.</p>
+    <div id = "fakeimg" style="height:60px;">Image</div><br>
+    <div class="fakeimg" style="height:60px;">Image</div><br>
+    <div class="fakeimg">Image</div>
+  </div>
+  <div class="main">
+    <h2>TITLE HEADING</h2>
+    <h5>Title description, Dec 7, 2017</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>Some text..</p>
+    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <br>
+    <h2>TITLE HEADING</h2>
+    <h5>Title description, Sep 2, 2017</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>Some text..</p>
+    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+  </div>
 </div>
-</div>
-</div>
-</div>
-</div>
+</section>
+
+<footer class="footer">
+  <h2>Footer</h2>
+  <nav>
+    <a href="Homepage.html">Home</a>
+    <a href="Resume.html">Resume</a>
+    <a href="Courses.html">Courses</a>
+    <a href="Projects.html">Projects</a>
+    <a href="Blog.html">Blog</a>
+    <a href="Contact.html">Contact</a>
+  </nav>
+</footer>
 
 </body>
 </html>
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-
