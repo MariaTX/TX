@@ -46,7 +46,7 @@
     <h2>About Me</h2>
     <h5>Photo of me:</h5>
     
-      <img class="fakeimg1" style="height:200px;" src="images/my_image.png" alt="my photo">
+      <img class="fakeimg1" style="height:200px;" src="my_image.png" alt="my photo">
     
     
     <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
