@@ -14,7 +14,7 @@
 <div class="header">
   <h1>Maria's Website</h1>
   <p><strong>civil engeneering technologist</p>
-  <p>A <b>responsive</b> website created by me.</p>
+<!--   <p>A <b>responsive</b> website created by me.</p> -->
 </div>
 
 <div class="navbar">
