@@ -23,7 +23,7 @@
   <a href="Resume.html">Resume</a>
   <a href="Courses.html">Courses</a>
   <div class="subnav">
-    <button class="subnavbtn">Courses<i class="fa fa-caret-down"></i></button>
+    <button class="subnavbtn"> <a href="Courses.html">Courses</a> <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
       <a href="Courses.html">Course 1</a>
       <a href="Courses.html">Course 2</a>
@@ -32,8 +32,8 @@
   <div class="subnav">
     <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="#link1">Link 1</a>
-      <a href="#link2">Link 2</a>
+      <a href="Projects.html">Link 1</a>
+      <a href="Projects.html">Link 2</a>
       <a href="#link3">Link 3</a>
       <a href="#link4">Link 4</a>
     </div>
