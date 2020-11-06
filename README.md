@@ -21,11 +21,12 @@
 <div class="navbar">
   <a href="Homepage.html">Home</a>
   <a href="Resume.html">Resume</a>
+  <a href="Courses.html">Courses</a>
   <div class="subnav">
     <button class="subnavbtn">Courses<i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="#course1">Course 1</a>
-      <a href="courses2.html">Course 2</a>
+      <a href="Courses.html">Course 1</a>
+      <a href="Courses.html">Course 2</a>
     </div>
   </div> 
   <div class="subnav">
