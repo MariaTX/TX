@@ -37,7 +37,7 @@
       <a href="#link4">Link 4</a>
     </div>
   </div>
-  <a href="Blog.html">Blog</a>
+  <a href="Blog.html">List of projects</a>
   <a href="Contact.html">Contact</a>
 </div>
 
