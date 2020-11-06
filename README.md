@@ -21,7 +21,6 @@
 <div class="navbar">
   <a href="Homepage.html">Home</a>
   <a href="Resume.html">Resume</a>
-  <a href="Courses.html">Courses</a>
   <div class="subnav">
     <button class="subnavbtn"> <a href="Courses.html">Courses</a> <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
