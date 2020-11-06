@@ -44,8 +44,8 @@
 <section class="container">
 <div class="row">
   <div class="side">
-    <h2>About Me</h2>
-    <h5>Photo of me:</h5>
+    <h2>Welcome to my website</h2>
+<!--     <h5>Photo of me:</h5> -->
     
       <img class="fakeimg1" style="height:200px;" src="images/my_image.png" alt="my photo">
     
@@ -57,17 +57,16 @@
     <div class="fakeimg">Image</div>
   </div>
   <div class="main">
-    <h2>TITLE HEADING</h2>
+    <h2>About me</h2>
     <h5>Title description, Dec 7, 2017</h5>
     <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Some text..</p>
-    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <p>I love learning. <br> If I were asked what kind of advice would you give to a thirteen year old self?</p>
+    <p>I would tell to my 13 year old self: focus on learning and gaining skills, stick with math and computers, this is what fit well with your personality. And start earlier, there are so many interesting things in this area to be learned and the feeling you get when you create a product is absolutely amazing.</p>
     <br>
-    <h2>TITLE HEADING</h2>
-    <h5>Title description, Sep 2, 2017</h5>
+<!--     <h2>TITLE HEADING</h2>
+    <h5>Title description, Sep 2, 2017</h5> -->
     <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Some text..</p>
-    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <p>I'd like to set up a website for my previous projects. If you've found my site helpful or useful then please consider throwing a coffee to help support my work 😊 Thank you!! 😘</p>
   </div>
 </div>
 </section>
