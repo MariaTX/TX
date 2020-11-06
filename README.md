@@ -32,9 +32,9 @@
   <div class="subnav">
     <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="Projects.html">Link 1</a>
-      <a href="Projects.html">Link 2</a>
-      <a href="#link3">Link 3</a>
+      <a href="https://www.revitcity.com/downloads.php?action=view&object_id=20153">Desk lamp</a>
+      <a href="https://www.revitcity.com/downloads.php?action=view&object_id=20243">Examination bed</a>
+      <a href="https://yadi.sk/d/a9haxyjFByM14Q">Doctor's office</a>
       <a href="#link4">Link 4</a>
     </div>
   </div>
