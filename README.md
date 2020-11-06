@@ -50,10 +50,9 @@
       <img class="fakeimg1" style="height:200px;" src="images/my_image.png" alt="my photo">
     
     
-    <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-    <h3>More Text</h3>
-    <p>Lorem ipsum dolor sit ame.</p>
-    <div id = "fakeimg" style="height:60px;">Image</div><br>
+    <p>I am very happy you have found yourself here. <br>I am a free mover at the university in Russia, studying  machine learning.<br>
+    I am an ex civil engineer technologist  and here you'll find some of my projects.</p>
+
     <div class="fakeimg" style="height:60px;">Image</div><br>
     <div class="fakeimg">Image</div>
   </div>
