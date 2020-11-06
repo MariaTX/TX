@@ -115,7 +115,7 @@ body {
 .fakeimg1 {
   background-color: #aaa;
   max-width: 958px;
-  width: 100%;
+/*   width: 100%; */
   max-height:960px;
   border-radius:50%;
   overflow:hidden; 
