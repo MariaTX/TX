@@ -34,10 +34,10 @@
       <a href="https://www.revitcity.com/downloads.php?action=view&object_id=20153">Desk lamp</a>
       <a href="https://www.revitcity.com/downloads.php?action=view&object_id=20243">Examination bed</a>
       <a href="https://yadi.sk/d/a9haxyjFByM14Q">Doctor's office</a>
-      <a href="#link4">Link 4</a>
+      <a href="Projects.html">List of projects</a>
     </div>
   </div>
-  <a href="Blog.html">List of projects</a>
+  <a href="Blog.html">Blog</a>
   <a href="Contact.html">Contact</a>
 </div>
 
