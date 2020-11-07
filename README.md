@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -72,7 +72,7 @@
 </section>
 
 <footer class="footer">
-  <h2>Footer</h2>
+<!--   <h2>Footer</h2> -->
   <nav>
     <a href="Homepage.html">Home</a>
     <a href="Resume.html">Resume</a>
