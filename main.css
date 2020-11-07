@@ -128,7 +128,8 @@ body {
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  background-color:rgba(232, 53, 86, 1);
+/*   background-color:rgba(232, 53, 86, 1); */
+  background-color: #1abc9c;
 }
 
 /* Footer */
